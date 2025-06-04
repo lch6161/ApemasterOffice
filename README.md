@@ -51,7 +51,7 @@ Apemaster Office not only supports the latest versions of browsers such as Chrom
 
 ## ✨ Suitable scenarios
 
-Due to its low latency and smooth playback of camera video streams,ApeMaster player has been widely used in scenarios such as transportation, water conservancy, fire protection, and factories.
+OA system, ERP system, online document management system, contract management system, etc
 
 ## 🎁 Contact US
 
